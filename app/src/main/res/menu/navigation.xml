@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_pie"
+        android:icon="@drawable/piecharticon"
+        android:title="Pie" />
+
+    <item
+        android:id="@+id/navigation_line"
+        android:icon="@drawable/linecharticon"
+        android:title="Line" />
+
+    <item
+        android:id="@+id/navigation_bar"
+        android:icon="@drawable/barcharticon"
+        android:title="Bar" />
+
+    <item
+        android:id="@+id/navigation_scatter_changeThis"
+        android:icon="@drawable/barcharticon"
+        android:title="Bar" />
+
+    <item
+        android:id="@+id/navigation_notificaion_changeThis"
+        android:icon="@drawable/barcharticon"
+        android:title="Bar" />
+
+</menu>

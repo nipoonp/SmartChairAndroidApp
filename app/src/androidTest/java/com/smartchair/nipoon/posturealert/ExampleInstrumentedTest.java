@@ -1,4 +1,4 @@
-package com.example.nipoon.shartchair2;
+package com.smartchair.nipoon.posturealert;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.nipoon.shartchair2", appContext.getPackageName());
+        assertEquals("com.smartchair.nipoon.posturealert", appContext.getPackageName());
     }
 }

@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">ShartChair2</string>
+    <string name="app_name">Posture Alert</string>
+    <string name="title_activity_pie_chart_test">PieChartTest</string>
+    <string name="title_activity_index">Index</string>
+    <string name="title_activity_main">Main</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_dashboard">Dashboard</string>
 </resources>

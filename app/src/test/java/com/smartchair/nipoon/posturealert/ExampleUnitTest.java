@@ -1,4 +1,4 @@
-package com.example.nipoon.shartchair2;
+package com.smartchair.nipoon.posturealert;
 
 import org.junit.Test;
 
