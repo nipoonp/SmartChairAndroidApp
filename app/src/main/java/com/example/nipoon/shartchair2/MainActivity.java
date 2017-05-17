@@ -173,7 +173,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                                             } else if (s0_saturated == false && s1_saturated == false && s2_saturated == true && s3_saturated == true){
                                                 txtResponse2.setText(new String("11. Torso and legs are correctly aligned..."));
                                             } else {
-                                                txtResponse2.setText(new String("Suhan is gay..."));
+                                                txtResponse2.setText(new String("Suhan is cool..."));
                                             }
 
 
